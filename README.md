@@ -2,7 +2,7 @@
 Simple Android Calling Application developed for receiving and calling developed through Android Studio.
 
 Output Screenshots
-![GitHub Logo](/call/.png)
-![GitHub Logo](/permissions/.png)
-![GitHub Logo](/recieve/.png)
-![GitHub Logo](/recieve1/.png)
+![GitHub Logo](https://github.com/Sandhya-Margabandhu/Phone-Call-App/call.png)
+![GitHub Logo](https://github.com/Sandhya-Margabandhu/Phone-Call-App/permissions.png)
+![GitHub Logo](https://github.com/Sandhya-Margabandhu/Phone-Call-App/recieve.png)
+![GitHub Logo](https://github.com/Sandhya-Margabandhu/Phone-Call-App/recieve1.png)
