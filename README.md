@@ -5,3 +5,6 @@ Simple Android Calling Application developed for receiving and calling developed
 ## Output Screenshots are given below 
 <img src="output1.png" height="450" width="450"/>
 <img src="output2.png" height="450" width="450"/>
+
+
+| Sandhya Margabandhu |
